@@ -72,3 +72,8 @@
 ```
 ## New
  bla bla bla
+
+## Просмотр лога
+```
+git log --graph --all
+```
