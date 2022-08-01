@@ -99,3 +99,7 @@
 ```
    git remote add <remote_name> <remote_repo_url>
 ```
+## Обзор псевдонимов Git
+```
+   Псевдонимы создаются с помощью команды git config
+```
