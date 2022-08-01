@@ -96,4 +96,8 @@
 ```
    git log --graph --all
 ```
-## Заголовок
+## Привязка удаленного репозитория с локальным  
+
+```
+  git remote add <remote_name> <remote_repo_url>
+```
