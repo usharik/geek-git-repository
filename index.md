@@ -97,3 +97,8 @@
    git log --graph --all
 ```
 ## Заголовок
+
+### Копирование репозитория
+```
+   git clone <repository>
+```
