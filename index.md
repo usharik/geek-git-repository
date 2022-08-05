@@ -102,3 +102,7 @@
 ```
    git clone <repository>
 ```
+## Для создания ветки new-feature наберите
+```
+   git branch new-feature
+```
